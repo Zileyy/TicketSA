@@ -1,0 +1,389 @@
+.u-block-5821-2 {
+  position: absolute;
+  bottom: 10px;
+}
+
+.u-block-5821-3 {
+  position: absolute;
+  left: 0;
+}
+
+.u-block-5821-4 {
+  position: absolute;
+  right: 0;
+}
+
+ .u-section-1-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/sport.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1-1 .u-sheet-1 {
+  min-height: 50vw;
+}
+
+.u-section-1-1 .u-text-1 {
+  font-size: 4.5rem;
+  width: 281px;
+  margin: 60px auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1-1 .u-text-1 {
+    margin-left: 322px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1-1 .u-text-1 {
+    margin-left: 29px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1-1 .u-text-1 {
+    font-size: 3rem;
+    margin-left: 18px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 350px;
+  }
+
+  .u-section-1-1 .u-text-1 {
+    font-size: 2.75rem;
+    margin-left: 23px;
+  }
+}
+
+ .u-section-1-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/muzika.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1-2 .u-sheet-1 {
+  min-height: 50vw;
+}
+
+.u-section-1-2 .u-text-1 {
+  font-size: 4.5rem;
+  width: 292px;
+  margin: 60px auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1-2 .u-text-1 {
+    margin-left: 327px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1-2 .u-text-1 {
+    margin-left: 29px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1-2 .u-text-1 {
+    font-size: 3rem;
+    margin-left: 18px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1-2 .u-sheet-1 {
+    min-height: 350px;
+  }
+
+  .u-section-1-2 .u-text-1 {
+    font-size: 2.75rem;
+    margin-left: 23px;
+  }
+}
+
+ .u-section-1-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/pozoriste.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1-3 .u-sheet-1 {
+  min-height: 50vw;
+}
+
+.u-section-1-3 .u-text-1 {
+  font-size: 4.5rem;
+  width: 409px;
+  margin: 60px auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1-3 .u-text-1 {
+    margin-left: 327px;
+    width: 292px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1-3 .u-text-1 {
+    margin-left: 29px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1-3 .u-text-1 {
+    font-size: 3rem;
+    margin-left: 18px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1-3 .u-sheet-1 {
+    min-height: 350px;
+  }
+
+  .u-section-1-3 .u-text-1 {
+    font-size: 2.75rem;
+    margin-left: 23px;
+  }
+}
+
+ .u-section-1-4 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/film.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1-4 .u-sheet-1 {
+  min-height: 50vw;
+}
+
+.u-section-1-4 .u-text-1 {
+  font-size: 4.5rem;
+  font-weight: 700;
+  margin: 350px 334px 60px 390px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1-4 .u-text-1 {
+    margin-left: 327px;
+    margin-right: 234px;
+    width: 292px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1-4 .u-text-1 {
+    margin-right: 124px;
+    margin-left: 29px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1-4 .u-text-1 {
+    font-size: 3rem;
+    margin-right: 34px;
+    margin-left: 18px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1-4 .u-sheet-1 {
+    min-height: 350px;
+  }
+
+  .u-section-1-4 .u-text-1 {
+    font-size: 2.75rem;
+    margin-right: 0;
+    margin-left: 23px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 563px;
+}
+
+.u-section-2 .u-text-1 {
+  width: 258px;
+  font-weight: 700;
+  margin: 68px auto 0;
+}
+
+.u-section-2 .u-text-2 {
+  width: 740px;
+  font-size: 1.125rem;
+  margin: 12px auto 0;
+}
+
+.u-section-2 .u-layout-wrap-1 {
+  margin: 30px auto 60px 0;
+}
+
+.u-section-2 .u-layout-cell-1 {
+  min-height: 354px;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 19px 0;
+}
+
+.u-section-2 .u-text-3 {
+  margin: -1px 41px 0 19px;
+}
+
+.u-section-2 .u-text-4 {
+  font-weight: 700;
+  margin: 31px -1px 0;
+}
+
+.u-section-2 .u-text-5 {
+  margin: 21px 30px 0;
+}
+
+.u-section-2 .u-btn-1 {
+  border-style: solid;
+  background-image: none;
+  margin: 55px auto 0;
+}
+
+.u-section-2 .u-layout-cell-2 {
+  min-height: 354px;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 18px 30px;
+}
+
+.u-section-2 .u-text-6 {
+  margin: -1px 0 0;
+}
+
+.u-section-2 .u-text-7 {
+  font-weight: 700;
+  margin: 51px 0 0;
+}
+
+.u-section-2 .u-text-8 {
+  margin: 40px 0 0;
+}
+
+.u-section-2 .u-btn-2 {
+  background-image: none;
+  border-style: none;
+  margin: 55px auto 0;
+}
+
+.u-section-2 .u-layout-cell-3 {
+  min-height: 354px;
+}
+
+.u-section-2 .u-container-layout-3 {
+  padding: 1px 30px;
+}
+
+.u-section-2 .u-text-9 {
+  margin: 17px 0 0;
+}
+
+.u-section-2 .u-text-10 {
+  font-weight: 700;
+  margin: 54px 0 0;
+}
+
+.u-section-2 .u-text-11 {
+  margin: 28px 0 0;
+}
+
+.u-section-2 .u-btn-3 {
+  border-style: solid;
+  background-image: none;
+  margin: 41px auto 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 463px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 292px;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-text-4 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-text-5 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 292px;
+  }
+
+  .u-section-2 .u-layout-cell-3 {
+    min-height: 292px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 355px;
+  }
+
+  .u-section-2 .u-text-2 {
+    width: 720px;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-2 .u-layout-cell-3 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 266px;
+  }
+
+  .u-section-2 .u-text-2 {
+    width: 540px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 167px;
+  }
+
+  .u-section-2 .u-text-2 {
+    width: 340px;
+  }
+}
