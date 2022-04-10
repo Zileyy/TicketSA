@@ -6,6 +6,4 @@ membership card that is going to store all tickets you bought. You can buy ticke
 
 [!] NOTE: This POC (Proof Of Concept) we're planing on doing rebrand, along with adding tons of new features.
 
-Arduino - Arduino project
-Python - Client Program
-Wordpress - Website
+Arduino - Arduino project | Python - Client Program | Wordpress - Website
